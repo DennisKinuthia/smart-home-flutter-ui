@@ -62,3 +62,11 @@ Transform.rotate(
 ~~~
 color: powerOn ? Colors.black : Colors.white,
 ~~~
+
+ScreenShot
+
+![Simulator Screen Shot - iPhone 13 - 2022-11-18 at 13 27 15](https://user-images.githubusercontent.com/98651593/202668231-7380ae31-c770-4735-bd2f-8670f84e22e8.png)
+![Simulator Screen Shot - iPhone 13 - 2022-11-18 at 13 27 19](https://user-images.githubusercontent.com/98651593/202668225-89b8d973-268e-48e6-b99a-fd913d66b73a.png)
+![Simulator Screen Shot - iPhone 13 - 2022-11-18 at 13 27 11](https://user-images.githubusercontent.com/98651593/202668236-de72c12a-0ce4-48fa-8419-8a33bf0504b8.png)
+
+
